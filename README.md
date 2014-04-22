@@ -12,6 +12,8 @@ The list of frontend style-guides. Open for pull requests :)
 - [GitHub](https://github.com/styleguide/javascript)
 - [Felixge](https://github.com/felixge/node-style-guide)
 - [Airbnb](https://github.com/airbnb/javascript)
+- [Dojo](https://dojotoolkit.org/community/styleGuide)
+- [Pragmatic jQuery](https://github.com/yuanyan/pragmatic-jquery)
 
 ### CoffeeScript
 
@@ -20,3 +22,7 @@ The list of frontend style-guides. Open for pull requests :)
 ### CSS
 
 - [Topcoat](https://github.com/topcoat/topcoat/wiki/Coding-Guidelines)
+- [CSSWizardy](https://github.com/csswizardry/CSS-Guidelines#readme)
+- [SMACSS](http://smacss.com/)
+- [OOCSS](http://oocss.org/)
+- [BEM](http://bem.info/method/)
