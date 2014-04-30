@@ -14,6 +14,7 @@ The list of frontend style-guides. Open for pull requests :)
 - [Airbnb](https://github.com/airbnb/javascript)
 - [Dojo](https://dojotoolkit.org/community/styleGuide)
 - [Pragmatic jQuery](https://github.com/yuanyan/pragmatic-jquery)
+- [NPM coding style](https://www.npmjs.org/doc/coding-style.html)
 
 ### CoffeeScript
 
