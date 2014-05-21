@@ -15,6 +15,7 @@ The list of frontend style-guides. Open for pull requests :)
 - [Dojo](https://dojotoolkit.org/community/styleGuide)
 - [Pragmatic jQuery](https://github.com/yuanyan/pragmatic-jquery)
 - [NPM coding style](https://www.npmjs.org/doc/coding-style.html)
+- [GOGO](https://github.com/brianloveswords/gogo/blob/master/STYLE.md)
 
 ### CoffeeScript
 
@@ -29,7 +30,9 @@ The list of frontend style-guides. Open for pull requests :)
 - [BEM](http://bem.info/method/)
 - [Code Guide by @mdo](http://mdo.github.io/code-guide/#css)
 - [MCSS](http://operatino.github.io/MCSS/en/)
+- [JetStyle](http://jetstyle.github.io/html-guidelines/styleguide.html)
 
 ### HTML
 
 - [Code Guide by @mdo](http://mdo.github.io/code-guide/#html)
+- [JetStyle](http://jetstyle.github.io/html-guidelines/styleguide.html)
