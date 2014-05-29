@@ -16,6 +16,7 @@ The list of frontend style-guides. Open for pull requests :)
 - [Pragmatic jQuery](https://github.com/yuanyan/pragmatic-jquery)
 - [NPM coding style](https://www.npmjs.org/doc/coding-style.html)
 - [GOGO](https://github.com/brianloveswords/gogo/blob/master/STYLE.md)
+- [Aloha Editor Guides](http://aloha-editor.org/guides/style_guide.html)
 
 ### CoffeeScript
 
