@@ -17,6 +17,7 @@ The list of frontend style-guides. Open for pull requests :)
 - [NPM coding style](https://www.npmjs.org/doc/coding-style.html)
 - [GOGO](https://github.com/brianloveswords/gogo/blob/master/STYLE.md)
 - [Aloha Editor Guides](http://aloha-editor.org/guides/style_guide.html)
+- [Yandex](https://github.com/yandex/codestyle/blob/master/javascript.md)
 
 ### CoffeeScript
 
